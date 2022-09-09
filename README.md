@@ -1,1 +1,1 @@
-https://Strenj.github.io/rsschool-cv/cv
+https://Strenj.github.io/rsschool-cv/
