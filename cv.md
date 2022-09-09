@@ -1,20 +1,20 @@
-## rsschool-cv
-***
+# rsschool-cv
+
 # Andrey Lazdin
-***
-### Contacts
-***
+
+## Contacts
+
 * E-mail: MinCH29@yandex.ru
 * Discord: Андрей (@Strenj)
 * GitHub: [@Strenj](https://github.com/Strenj)
 * Telegram: @Wialeb
 
-### About Me
-***
+## About Me
+
 I graduated from the University of NovSU. After that I had a break in IT. I eventually stumbled upon rsschool courses which inspired me to look at programming in a new way.
 
-### Skills
-***
+## Skills
+
 * HTML
 * CSS(SCSS/SASS, Bootstrap, media request)
 * JS Basic
@@ -23,8 +23,8 @@ I graduated from the University of NovSU. After that I had a break in IT. I even
 * Windows OS, Linux (ubuntu)
 * Photoshop, Figma
 
-### Code example
-***
+## Code example
+
 ```
     this.methods = {
         "+": (a, b) => a + b,
@@ -32,13 +32,13 @@ I graduated from the University of NovSU. After that I had a break in IT. I even
     };
 ```
 
-### Education
-***
+## Education
+
 * Novgorod State University named after Yaroslav the Wise, majoring in applied mathematics and computer science
 * https://learn.javascript.ru
 * https://stepik.org
 
-### Languages
-***
+## Languages
+
 * Russian - native
 * English - A2
